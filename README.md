@@ -16,7 +16,7 @@ Young men silently suffer from emotional challenges like breakups, career failur
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/yourusername/brospace.git
+git clone https://github.com/muskan8006/brospace-app
 cd brospace
 flutter pub get
 flutter run
