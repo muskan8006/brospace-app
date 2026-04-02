@@ -1,7 +1,5 @@
 # BroSpace – Your Safe Space to Heal 💬
-
-## 🧠 Problem Statement
-Young men silently suffer from emotional challenges like breakups, career failures, and identity loss. BroSpace helps them heal through AI support and personal recovery tools.
+ - for Young men who silently suffer from emotional challenges like breakups, career failures, and identity loss. BroSpace helps them heal through AI support and personal recovery tools.
 
 ## 💡 Features
 - AI Chat for emotional conversation
