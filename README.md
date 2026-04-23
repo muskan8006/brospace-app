@@ -10,7 +10,7 @@
 ## 🔧 Tech Stack
 - Flutter (Dart)
 - Firebase (Auth, Firestore)
-- Clean UI/UX for comfort & simplicity
+  
 
 ## 🚀 How to Run
 ```bash
