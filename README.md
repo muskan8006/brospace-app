@@ -1,4 +1,4 @@
-# BroSpace – Your Safe Space to Heal 💬
+# BroSpace – Safe Space to Heal 💬
  - for Young men who silently suffer from emotional challenges like breakups, career failures, and identity loss. BroSpace helps them heal through AI support and personal recovery tools.
 
 ## 💡 Features
